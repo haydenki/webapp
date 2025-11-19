@@ -6,6 +6,6 @@
 *  amber, pumpkin, orange, sand, grey, zinc, slate */
 
 
-$config['themeColor'] = 'red';
+$config['themeColor'] = 'purple';
 
 ?>
